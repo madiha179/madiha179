@@ -80,10 +80,6 @@ Organized backend structure
 Repository
 https://github.com/madiha179/metro_DB
 
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madiha179&show_icons=true&theme=radical"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madiha179&layout=compact&theme=radical"/> </p>
-Contact
-
 Email
 madihaelyazal29@gmail.com
 
