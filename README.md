@@ -24,7 +24,7 @@
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Backend** | Node.js, Express.js|
-| **Databases** | MongoDB (Aggregation Pipelines), MySQL [cite: 1] |
+| **Databases** | MongoDB (Aggregation Pipelines), MySQL  |
 | **Security** | JWT, Bcrypt, Input Sanitization (XSS/SQLi), Rate Limiting  |
 | **Mobile** | Flutter, Dart  |
 | **Tools** | Git, GitHub, Docker (Basics), Postman, Swagger, Jira, Slack|
