@@ -1,8 +1,6 @@
 # 🚀 Hello, I'm Madiha Seif Elyazal! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Backend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
+
 
 ### **Computer Science Graduate |Ain Shams University (2026)** 
 > Junior Backend Developer specializing in **Node.js** and **Express.js** with a passion for building secure, scalable **RESTful APIs**
