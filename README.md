@@ -46,7 +46,7 @@
 
 * **Full-Stack:** Developed a platform for medicine search, prescription uploads, and online ordering.
 * **Database:** Designed a MySQL schema for real-time inventory and order management
-* [cite_start]**Tech:** `Node.js`, `Express.js`, `MySQL`, `Flutter`.
+* **Tech:** `Node.js`, `Express.js`, `MySQL`, `Flutter`.
 
 ---
 
